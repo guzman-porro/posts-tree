@@ -1,0 +1,20 @@
+.badge-pill {
+    height: 100%;
+    align-self: center;
+    margin-left: 22px;
+}
+
+.parent-node-title {
+    cursor: pointer;
+    line-height: 42px;
+    margin: 10px 0;
+}
+
+.parent-node-title:hover {
+    opacity: 0.7;
+}
+
+.children-posts {
+    display: none;
+}
+
