@@ -6,6 +6,7 @@ npm install
 ### 2- Run
 ```
 npm start
+Open browser on http://localhost:8080/
 ```
 
 ### E2E tests
